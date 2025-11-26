@@ -113,6 +113,7 @@ alias nfz='nvim $(fzf --preview="bat --color=always {}")'
 alias bfz='fzf --preview="bat --color=always {}"'
 alias eeeaaaooo='mpv $HOME/Videos/EEEAAAOOO.mkv'        # Nyaaa :3
 alias hrt='librewolf https://voixceleste.cc'            # another Nyaaa :3
+alias Brodie-Rebootson='systemctl soft-reboot'
 
 # FZF theme
 export FZF_DEFAULT_OPTS=" \
