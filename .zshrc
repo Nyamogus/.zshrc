@@ -112,6 +112,7 @@ alias uwufetch='uwufetch -i'
 alias nfz='nvim $(fzf --preview="bat --color=always {}")'
 alias bfz='fzf --preview="bat --color=always {}"'
 alias eeeaaaooo='mpv $HOME/Videos/EEEAAAOOO.mkv'        # Nyaaa :3
+alias six-seven='mpv $HOME/Videos/67.mp4'
 alias hrt='librewolf https://voixceleste.cc'            # another Nyaaa :3
 alias Brodie-Rebootson='systemctl soft-reboot'
 
