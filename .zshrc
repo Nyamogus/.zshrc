@@ -135,6 +135,7 @@ export MANPATH="/usr/local/man:$MANPATH"
 # add .cargo and .nix-profile to $PATH
 PATH=$PATH:~/.cargo/bin/
 PATH=$PATH:~/.nix-profile/bin
+PATH=$PATH:~/.local/bin/
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
